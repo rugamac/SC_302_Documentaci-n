@@ -65,4 +65,15 @@ function minimo(nuemeros)[
 	}
 	return min;
 }
+// Desarrollador 3
+
+
+console.log(suma(2, 3)); 
+
+
+console.log(resta(5, 3)); 
+
+
+console.log(multiplicacion(2, 3));
+
 
