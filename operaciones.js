@@ -28,3 +28,11 @@ function raizCuadrada(n){
 function porcentaje(n, porcentaje) {
     return (n * porcentaje) / 100;
 }
+// Desarrollador 1
+function promedio(numeros) {
+    let suma = 0;
+    for (let i = 0; i < numeros.length; i++) {
+        suma += numeros[i];
+    }
+    return suma / numeros.length;
+}
