@@ -19,3 +19,7 @@ function division(a, b) {
 function potencia(base, exponente) {
     return Math.pow(base, exponente);
 }
+//Desarrollador 2
+function raizCuadrada(n){
+	return Math.sgrt(n);
+}
