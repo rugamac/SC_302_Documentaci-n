@@ -10,3 +10,8 @@ function resta(a, b) {
 function multiplicacion(a, b) {
     return a * b;
 }
+
+// Desarrollador 4
+function division(a, b) {
+    return a / b;
+}
