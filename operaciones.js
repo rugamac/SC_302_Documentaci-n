@@ -6,3 +6,7 @@ function suma(a, b){
 function resta(a, b) {
     return a - b;
 }
+// Desarrollador 1
+function multiplicacion(a, b) {
+    return a * b;
+}
