@@ -18,3 +18,9 @@ function eliminarFruta(fruta){
 		frutas.splice(index,1);
 	}
 }
+
+// Desarrollador 4
+imprimirFrutas(); 
+
+// Desarrollador 4
+agregarFruta("kiwi");
