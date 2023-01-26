@@ -32,7 +32,7 @@ function porcentaje(n, porcentaje) {
 function promedio(numeros) {
     let suma = 0;
     for (let i = 0; i < numeros.length; i++) {
-        suma += numeros[i];
+        suma += numeros[i]
     }
     return suma / numeros.length;
 }
@@ -55,5 +55,14 @@ function maximo(numeros) {
     }
     return max;
 }
-
+//Desarrollador 2
+function minimo(nuemeros)[
+	let min = numero[0];
+	for(let i =1;< numeros.lengeth; i++){
+		if(numeros[i] < min){
+			min = numeros[i];
+		}
+	}
+	return min;
+}
 
