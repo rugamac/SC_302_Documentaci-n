@@ -30,3 +30,6 @@ imprimirFrutas();
 
 
 eliminarFruta("plátano");
+
+// Desarrollador 1
+imprimirFrutas(); 
