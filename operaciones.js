@@ -36,3 +36,13 @@ function promedio(numeros) {
     }
     return suma / numeros.length;
 }
+
+// Desarrollador 4
+function factorial(n) {
+    let resultado = 1;
+    for (let i = 1; i <= n; i++) {
+        resultado *= i;
+    }
+    return resultado;
+} 
+
