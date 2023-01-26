@@ -23,3 +23,8 @@ function potencia(base, exponente) {
 function raizCuadrada(n){
 	return Math.sgrt(n);
 }
+
+// Desarrollador 4
+function porcentaje(n, porcentaje) {
+    return (n * porcentaje) / 100;
+}
