@@ -76,4 +76,9 @@ console.log(resta(5, 3));
 
 console.log(multiplicacion(2, 3));
 
+//Desarrollador 2
+console.log(division(6, 3));
 
+console.log(potencia(2, 3));
+
+console.log(raizCuadrada(9));
